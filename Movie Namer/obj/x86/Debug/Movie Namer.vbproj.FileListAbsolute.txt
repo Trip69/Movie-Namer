@@ -1,0 +1,28 @@
+Q:\SD\VB\Movie Namer\Movie Namer\bin\Debug\Movie Namer.exe
+Q:\SD\VB\Movie Namer\Movie Namer\bin\Debug\Movie Namer.pdb
+Q:\SD\VB\Movie Namer\Movie Namer\bin\Debug\Movie Namer.xml
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\ConsoleApplication1.Resources.resources
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.exe
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.xml
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.pdb
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.exe
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.xml
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.pdb
+W:\SD\VB\Movie Namer\Movie Namer\bin\Debug\Movie Namer.exe
+W:\SD\VB\Movie Namer\Movie Namer\bin\Debug\Movie Namer.pdb
+W:\SD\VB\Movie Namer\Movie Namer\bin\Debug\Movie Namer.xml
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\GenerateResource.read.1.tlog
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\GenerateResource.write.1.tlog
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Debug\MovieNamer.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Debug\MovieNamer.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Debug\Movie Namer.vbproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\bin\Debug\Movie Namer.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\bin\Debug\Movie Namer.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\bin\Debug\Movie Namer.xml

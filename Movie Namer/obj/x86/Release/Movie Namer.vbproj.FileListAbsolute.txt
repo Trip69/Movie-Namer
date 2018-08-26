@@ -1,0 +1,26 @@
+Q:\SD\VB\Movie Namer\Movie Namer\bin\Release\Movie Namer.exe
+Q:\SD\VB\Movie Namer\Movie Namer\bin\Release\Movie Namer.pdb
+Q:\SD\VB\Movie Namer\Movie Namer\bin\Release\Movie Namer.xml
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\ResolveAssemblyReference.cache
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\ConsoleApplication1.Resources.resources
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\GenerateResource.read.1.tlog
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\GenerateResource.write.1.tlog
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.exe
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.xml
+Q:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.pdb
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.exe
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.xml
+W:\SD\VB\Movie Namer\Movie Namer\bin\Release\Movie Namer.exe
+W:\SD\VB\Movie Namer\Movie Namer\bin\Release\Movie Namer.xml
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\ResolveAssemblyReference.cache
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\GenerateResource.read.1.tlog
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\GenerateResource.write.1.tlog
+W:\SD\VB\Movie Namer\Movie Namer\obj\x86\Release\MovieNamer.Resources.resources
+D:\Downloads\Movies\Movie Namer.exe
+D:\Downloads\Movies\Movie Namer.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\bin\Release\Movie Namer.exe
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\bin\Release\Movie Namer.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Release\MovieNamer.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\Movie Namer\Movie Namer\obj\x86\Release\Movie Namer.vbproj.GenerateResource.Cache
